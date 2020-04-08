@@ -1,5 +1,5 @@
 {
   "updateAvail":false,
-  "reqUpdate":false,
-  "serverMaintain":true
+  "reqUpdate":true,
+  "serverMaintain":false
 }
